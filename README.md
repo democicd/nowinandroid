@@ -2,6 +2,8 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"></a>
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=democicd_nowinandroid&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=democicd_nowinandroid)
+
 Now in Android App
 ==================
 
